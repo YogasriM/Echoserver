@@ -58,7 +58,10 @@ client.py
     
     print(f"Received {data!r}")
 ## OUTPUT:
-<img width="1203" height="373" alt="image" src="https://github.com/user-attachments/assets/2356a25f-cc64-40f1-8749-44b3fd55f835" />
+server.py
+<img width="592" height="237" alt="image" src="https://github.com/user-attachments/assets/f15717e8-cf11-4a00-acaf-74c5eecba2ad" />
+client.py
+<img width="553" height="156" alt="image" src="https://github.com/user-attachments/assets/032bbd95-a6be-4e74-9d50-9920b8cb727e" />
 
 
 ## RESULT:
